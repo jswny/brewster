@@ -1,0 +1,10 @@
+{
+  "name": "brewster",
+  "version": "1.0.0",
+  "description": "Automated Homebrew Tap updates",
+  "main": "index.js",
+  "repository": "https://github.com/jswny/brewster.git",
+  "author": "Joe Sweeney <joe@j1.io>",
+  "license": "MIT",
+  "private": true
+}
