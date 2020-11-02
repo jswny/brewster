@@ -1,0 +1,5 @@
+name: 'Brewster'
+description: 'Automated Homebrew Tap updates'
+runs:
+  using: 'node12'
+  main: 'index.js'
